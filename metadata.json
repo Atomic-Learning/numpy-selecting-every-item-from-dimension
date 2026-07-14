@@ -1,22 +1,23 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "How to select every entry from a particular dimension in a NumPy array.",
+    "slug": "numpy-selecting-every-item-from-dimension",
     "description": "",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "numpy-indexing"
     ],
     "related": [
-        "",
-        ""
+        "numpy-slicing"
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
